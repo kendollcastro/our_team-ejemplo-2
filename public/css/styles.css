@@ -393,7 +393,11 @@ li {
   top: 5001px; }
 
 body {
+<<<<<<< Updated upstream
   font-family: "Helvetica", sans-serif;
+=======
+  font-family: "Libre Franklin", sans-serif;
+>>>>>>> Stashed changes
   margin: 0;
   padding: 0; }
 
